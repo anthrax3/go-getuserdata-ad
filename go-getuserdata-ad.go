@@ -6,7 +6,7 @@ package main
 
 import (
 	"fmt"
-	"igo-ldap"   // https://github.com/go-ldap/ldap/
+	"go-getuserdata-ad/igo-ldap"   // https://github.com/go-ldap/ldap/
 	"strings"	
 	"os"
 )
